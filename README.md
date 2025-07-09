@@ -14,7 +14,7 @@ A long windows .bat file that makes it look like you are hacking.
 
 ## Installation
 
-Install my-project with npm
+Run in powershell for better output
 
 ```powershell
   C:\Path\To\Your\bat\file #it performs better in powershell
